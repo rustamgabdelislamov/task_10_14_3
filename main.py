@@ -1,6 +1,5 @@
-def dar():
+def foo():
     pass
 
-
-def foo():
+def bar():
     pass
